@@ -1,0 +1,13 @@
+agentic-ai-venv
+py311
+.env
+chat-files
+*.pdf
+chroma-db
+*.txt
+*.mp4
+.idea
+__pycache__
+Agentic AI videos
+*.DB_Store
+.DS_Store
