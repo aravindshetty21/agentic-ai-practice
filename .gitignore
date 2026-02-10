@@ -11,3 +11,4 @@ __pycache__
 Agentic AI videos
 *.DB_Store
 .DS_Store
+faiss_db
